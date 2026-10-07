@@ -28,10 +28,10 @@ An open community is a public group or collaborative space where anyone can join
 
 ## Sectors and Functional Areas
 
-A `sector` is a large grouping of jobs, businesses, and economic activities categorized by the primary type of work, service, or product they produce.  For example, an accountant will work within the `Telecommunications, computer programming, consultancy, computing infrastructure, and other information
+A `sector` is a large grouping of jobs, businesses, and economic activities categorized by the primary type of work, service, or product they produce.  For example, a programmer will work within the `Telecommunications, computer programming, consultancy, computing infrastructure, and other information
 service activities` sector.
 
-A sector is further subdivided into `Functional Groups`. A functional group represents a cluster of jobs or roles that perform the same core business function or specialized operational task. For example, `Other computer programming activities` is a functional group within the `Telecommunications, computer programming, consultancy, computing infrastructure, and other information
+A sector is further subdivided into `Functional Groups`. A functional group represents a role that perform the same core business function or specialized operational tasks. For example, `Other computer programming activities` is a functional group within the `Telecommunications, computer programming, consultancy, computing infrastructure, and other information
 service activities` sector.
 
 Sectors and Functional Groups classifications are in accordance with the following standard:
@@ -67,9 +67,3 @@ Each functional group, has a development `Team` that that comprise of `Team Memb
 Any team member or individual can open a request in the the [Issues](https://github.com/micro-credentials/main/issues) section and describe the new sector, functional group or micro-credential to be developed. Once approval is granted the development work can commence. The issues page to request the development of a new item is provided below:
 
 [Create and Issue](https://github.com/micro-credentials/main/issues)
-
-
-
-
-
-
